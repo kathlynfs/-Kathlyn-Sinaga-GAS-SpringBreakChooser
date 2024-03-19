@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">[Kathlyn Sinaga | GAS]SpringBreakChooser</string>
+    <string name="activity_hint_text">Choose a Language</string>
+    <string name="english_hint">Say something</string>
+    <string name="chinese_hint">请说</string>
+    <string name="indo_hint">Tolong bicara</string>
+    <string name="toggle_tts_button_en">Start Speaking</string>
+    <string name="toggle_tts_button_cn">开始</string>
+    <string name="toggle_tts_button_id">Mulai</string>
+
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Indonesian</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+array languages_array
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id activityHint
+id languageSpinner
+id relativeLayout
+id toggleTTSButton
+id userInput
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string activity_hint_text
+string app_name
+string chinese_hint
+string english_hint
+string indo_hint
+string toggle_tts_button_cn
+string toggle_tts_button_en
+string toggle_tts_button_id
+style Base.Theme.SpringBreakChooser
+style Theme.SpringBreakChooser
+xml backup_rules
+xml data_extraction_rules

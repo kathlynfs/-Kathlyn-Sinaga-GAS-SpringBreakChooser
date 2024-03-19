@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Indonesian</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="activity_hint_text">Choose a Language</string>
+    <string name="app_name">SpringBreakChooser</string>
+    <string name="chinese_hint">请说</string>
+    <string name="english_hint">Say something</string>
+    <string name="indo_hint">Tolong bicara</string>
+    <string name="toggle_tts_button_cn">开始</string>
+    <string name="toggle_tts_button_en">Start Speaking</string>
+    <string name="toggle_tts_button_id">Mulai</string>
+    <style name="Base.Theme.SpringBreakChooser" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SpringBreakChooser" parent="Base.Theme.SpringBreakChooser"/>
+</resources>
